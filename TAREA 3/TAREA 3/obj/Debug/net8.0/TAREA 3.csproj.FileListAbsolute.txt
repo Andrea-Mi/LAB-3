@@ -1,0 +1,14 @@
+C:\LAB 3\TAREA 3\TAREA 3\bin\Debug\net8.0\TAREA 3.exe
+C:\LAB 3\TAREA 3\TAREA 3\bin\Debug\net8.0\TAREA 3.deps.json
+C:\LAB 3\TAREA 3\TAREA 3\bin\Debug\net8.0\TAREA 3.runtimeconfig.json
+C:\LAB 3\TAREA 3\TAREA 3\bin\Debug\net8.0\TAREA 3.dll
+C:\LAB 3\TAREA 3\TAREA 3\bin\Debug\net8.0\TAREA 3.pdb
+C:\LAB 3\TAREA 3\TAREA 3\obj\Debug\net8.0\TAREA 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB 3\TAREA 3\TAREA 3\obj\Debug\net8.0\TAREA 3.AssemblyInfoInputs.cache
+C:\LAB 3\TAREA 3\TAREA 3\obj\Debug\net8.0\TAREA 3.AssemblyInfo.cs
+C:\LAB 3\TAREA 3\TAREA 3\obj\Debug\net8.0\TAREA 3.csproj.CoreCompileInputs.cache
+C:\LAB 3\TAREA 3\TAREA 3\obj\Debug\net8.0\TAREA 3.dll
+C:\LAB 3\TAREA 3\TAREA 3\obj\Debug\net8.0\refint\TAREA 3.dll
+C:\LAB 3\TAREA 3\TAREA 3\obj\Debug\net8.0\TAREA 3.pdb
+C:\LAB 3\TAREA 3\TAREA 3\obj\Debug\net8.0\TAREA 3.genruntimeconfig.cache
+C:\LAB 3\TAREA 3\TAREA 3\obj\Debug\net8.0\ref\TAREA 3.dll
